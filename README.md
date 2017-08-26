@@ -3,6 +3,7 @@
 
 # 属性：
 context: html内容字符串 如"<input type='checkbox' />"
+
 marginLeft: 子节点缩进距离 如"30px"
 
 # 方法：
